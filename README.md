@@ -1,8 +1,8 @@
 # c2pa-provider capability provider
 
 This capability provider 
-implements the "wasmcloud:example:factorial" capability
-and calculates "n factorial" for the provided whole number n.
+implements the "wasmcloud:adobe:c2pa" capability
+and embeds a transcode claim in an image.
 
 Build with 'make'. Test with 'make test'.
 
