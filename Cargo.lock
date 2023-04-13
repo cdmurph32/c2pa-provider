@@ -3682,6 +3682,7 @@ dependencies = [
 [[package]]
 name = "wasmcloud-interface-c2pa"
 version = "0.1.0"
+source = "git+https://github.com/cdmurph32/c2pa-interface.git?branch=main#a68ec8606b997aa599743b641289498cd97d3688"
 dependencies = [
  "async-trait",
  "serde",
