@@ -9,7 +9,7 @@ async-trait = "0.1"
 c2pa = { version = "0.16.0", features = ["file_io", "sign"] }
 tempfile = "3.3.0"
 tracing = "0.1.37"
-wasmbus-rpc = "0.12"
+wasmbus-rpc = "0.11"
 wasmcloud-interface-c2pa = { path = "../c2pa-interface/rust" }
 
 # test dependencies
